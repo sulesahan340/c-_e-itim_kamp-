@@ -1,0 +1,107 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net.Configuration;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _08_methods
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            #region void metotlar
+            //()
+            //geriye değer döndürmeyen metotlar  
+            //customer --> listele, ekle, sil, güncelle
+            //void
+
+
+            //void CustomerList()
+            //{
+            //    Console.WriteLine("şule şahan");
+            //    Console.WriteLine("nuray nart");
+            //    Console.WriteLine("duygu kaya");
+            //    Console.WriteLine("nagihan zan");
+
+            //}
+
+            //CustomerList();
+            //CustomerList();
+            //CustomerList();
+            //CustomerList();
+
+            //void Sum()
+            //    {
+            //    int x = 1;
+            //    int y = 2;
+            //    int z = x + y;
+            //    Console.WriteLine(z);
+            //}
+
+            //Sum();
+
+
+            #endregion
+
+            #region geriye değer döndürmeyen string parametreli metotlar
+
+            //void WriteMethod(string customerName)
+            //{
+            //    Console.WriteLine(customerName);
+            //}
+
+            //WriteMethod("şule şahan");
+
+            //void CustomerCard(string name, string surName)
+            //{
+            //    Console.WriteLine("müşteri: " + name + " " + surName);
+            //}
+
+            //CustomerCard("mehmet", "yıldız");
+            //CustomerCard("şule", "şahan");
+
+
+
+            #endregion
+
+            #region geriye değer döndürmeyen int parametreli metotlar
+            //void Sum(int number1,int number2,int number3 )
+            //{
+            //    int result = number1 + number2 + number3;
+            //    Console.WriteLine(result);
+            //}
+
+            //Sum(4, 5, 6);
+            #endregion
+
+            #region geriye değer döndüren metotlar
+
+            //string CustomerName()
+            //{
+            //    return "buse yıldız";
+            //}
+
+            //CustomerName();
+
+
+            //string studentCard()
+            //{
+            //    string name = "şule";
+            //    string surname = "şahan";
+
+            //    return name +  " " + surname;
+            //}
+
+            //Console.WriteLine(studentCard());
+
+
+
+
+
+            #endregion
+            Console.Read();
+        }
+    }
+}
