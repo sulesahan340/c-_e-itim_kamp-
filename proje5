@@ -1,0 +1,49 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _06_arrays
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            #region temel dizi örnekleri
+
+            //Değişken türü [] DiziAdı =newDeğişkenTürü[Eleman sayısı]
+            //string[] colors = new string[4];
+            //colors[0] = "kırmızı";
+            //colors[1] = "sarı";
+            //colors[2] = "beyaz";
+            //colors[3] = "mavi";
+
+            //Console.WriteLine(colors[2]);
+            #endregion
+
+            #region dizideki tüm elemanları listeleme
+
+            //string[] colors = { "sarı", "kırmızı", "beyaz", "mavi", "yeşil", "turuncu", "pembe" };
+
+            //for (int i = 0; i < colors.Length; i++)
+            //{
+            //    Console.WriteLine(colors[i]);
+            //}
+
+            //int[] numbers = { 4, 85, 96, 75, 125, 635, 488, 522, 7456, 2365, 1120 };
+
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    if (numbers[i] % 3 == 0)
+            //    {
+            //        Console.WriteLine(numbers[i]);
+            //    }
+            //}
+ 
+            #endregion
+
+            Console.Read();
+        }
+    }
+}
