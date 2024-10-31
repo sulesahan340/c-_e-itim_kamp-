@@ -1,0 +1,157 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace karar_yapıları
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            #region if Else
+
+            //Console.WriteLine("lütfen şifreyi giriniz: ");
+            //string password;
+            //password = Console.ReadLine();
+
+            //if (password == "sule")
+            //{
+            //    Console.WriteLine("şifre doğru");
+            //}
+            //else {
+            //    Console.WriteLine("şifre yanlış");
+            //}
+
+            //string capital, country;
+            //Console.Write("başkenti giriniz: ");
+            //capital = Console.ReadLine();
+
+            //Console.WriteLine("ülkeyi giriniz: ");
+            //country = Console.ReadLine();
+
+            //if (capital == "ankara" & country == "türkiye")
+            //{
+            //    Console.WriteLine("veriler doğru");
+            //        }
+            //else
+            //{
+            //    Console.WriteLine("veriler yanlış");
+            // }
+
+            //int number;
+            //Console.WriteLine("sayıyı giriniz");
+            //number = int.Parse(Console.ReadLine());
+            //if (number == 5)
+            //{
+            //    Console.WriteLine("sayı doğru");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("sayı yanlış");
+            //}
+
+            //int exam1, exam2, exam3, average;
+            
+
+            //Console.Write("sınav1: ");
+            //exam1=int.Parse(Console.ReadLine());
+            //Console.Write("sınav2: ");
+            //exam2 =int.Parse(Console.ReadLine());
+            //Console.Write("sınav3:");
+            //exam3 =int.Parse(Console.ReadLine());
+
+            //average = (exam1+exam2 + exam3)/3;
+            //Console.WriteLine("ortalamanız: " + average);
+
+            //if (average < 30)
+            //{
+            //    Console.Write("sonuç kötü");
+            //}
+            //else if (average < 60)
+            //{
+            //    Console.Write("sonuç ortalama");
+            //}
+            //else
+            //{
+            //    Console.Write("sonuç gayet iyi");
+            //}
+            Console.ReadLine();
+
+
+
+
+            #endregion
+
+            #region Mod İşlemleri
+
+            //int number = 26;
+            //int result = number % 5;
+            //Console.WriteLine(result);
+
+            //Console.Write("lütfen 1. sayıyı giriniz: ");
+            //int number1 = int.Parse(Console.ReadLine());
+
+            //Console.Write("lütfen 2. sayıyı giriniz: ");
+            //int number2 = int.Parse(Console.ReadLine());
+
+            //int result = number1 % number2;
+
+            //Console.Write("1. sayının 2. sayıya bölümünden kalan: " + result);
+            #endregion
+
+            #region char değişkenleri ile karar yapıları
+            //char team;
+            //Console.WriteLine("lütfen bir harf giriniz: ");
+            //team = char.Parse(Console.ReadLine());
+            //if (team == 'g')
+            //{
+            //    Console.WriteLine("galatasaray");
+            //}
+            //else if (team == 'f')
+            //{
+            //    Console.WriteLine("fenerbahçe");
+            //}
+            //else if (team == 'b')
+            //{
+            //    Console.WriteLine("beşiktaş");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("hatalı harf girdiniz");
+            //}
+
+            #endregion
+
+            #region switch case
+            //Console.Write("lütfen bir ay giriniz: ");
+            //int monthNumber = int.Parse(Console.ReadLine());
+
+            //switch(monthNumber)
+            //{
+            //    case 1: Console.Write("ocak"); break;
+            //    case 2: Console.Write("şubat");break;
+            //    case 3: Console.Write("mart"); break;
+            //    case 4: Console.Write("nisan"); break;
+            //    case 5: Console.Write("mayıs"); break;
+            //    case 6: Console.Write("haziran"); break;
+            //    case 7: Console.Write("temmuz"); break;
+            //    case 8: Console.Write("ağustos"); break;
+            //    case 9: Console.Write("eylül"); break;
+            //    case 10: Console.Write("ekim"); break;
+            //    case 11: Console.Write("kasım"); break;
+            //    case 12: Console.Write("aralık"); break;
+            //    default: Console.WriteLine("hatalı veri girişi");break;
+
+            //}
+
+            #endregion
+
+            #region switch case hesap makinesi
+
+            #endregion
+            Console.ReadLine();
+        }
+    }
+}
