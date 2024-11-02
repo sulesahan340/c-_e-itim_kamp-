@@ -10,8 +10,8 @@ Bu projede if, else if ve else yapılarını öğrendim. Bu karar yapıları say
 🎀PROJE 3: Döngüler -->
 Bu projede for ve while gibi döngüleri öğrendik. Daha sonra karar yapılarını da kullanarak iki yapıyı birleştirdik.
 
-🎀PROJE 4: Karar yapıları
-Bu projede if, else, else if yapılarını kullanarak karar yapılarını öğrendim.
+🎀PROJE 4: Döngü projesi -->
+Bu projede döngüleri kullanarak yıldız oluşturma projesi yaptık.
 
 🎀PROJE 5: Döngüler
 Bu projede for, while ve forEach döngülerini öğrendim.
