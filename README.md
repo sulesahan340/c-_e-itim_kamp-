@@ -22,3 +22,6 @@ Bu projede foreach döngüsünü ele aldık. Uygun karar yapıları ile beraber 
 🎀PROJE 7: Metotlar -->
 Bu projede metotları öğrendik.
 
+🎀PROJE 8: Veri tabanı -->
+Bu projede sql'i projemize entegre etmeyi öğrendik.
+
