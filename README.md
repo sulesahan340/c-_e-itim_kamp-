@@ -4,8 +4,8 @@ Murat Yücedağın eğitmenliğindeki C# kampında yaptığımız proje detaylar
 🎀PROJE 1: Merhaba Dünya
 Konsola yazı yazmayı öğrendim.
 
-🎀PROJE 2: Değişkenler
-Bu projede veri tiplerini öğrendim ve alıştırmalar yaptım.
+🎀PROJE 2: Karar yapıları
+Bu projede if, else if ve else yapılarını öğrendim. Bu karar yapıları sayesinde öğrencinin ortalamasını alıp dersten geçti veya kaldı şeklinde gösteren bir proje yaptık.
 
 🎀PROJE 3: Diziler
 Bu projede diziler ile çalışmayı öğrendim.
