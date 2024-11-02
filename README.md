@@ -7,8 +7,8 @@ Konsola yazı yazmayı öğrendim.
 🎀PROJE 2: Karar yapıları -->
 Bu projede if, else if ve else yapılarını öğrendim. Bu karar yapıları sayesinde öğrencinin ortalamasını alıp dersten geçti veya kaldı şeklinde gösteren bir proje yaptık.
 
-🎀PROJE 3: Diziler
-Bu projede diziler ile çalışmayı öğrendim.
+🎀PROJE 3: Döngüler -->
+Bu projede for ve while gibi döngüleri öğrendik. Daha sonra karar yapılarını da kullanarak iki yapıyı birleştirdik.
 
 🎀PROJE 4: Karar yapıları
 Bu projede if, else, else if yapılarını kullanarak karar yapılarını öğrendim.
