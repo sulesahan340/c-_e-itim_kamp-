@@ -19,3 +19,6 @@ Bu projede dizileri öğrendik. Dizileri nasıl listeleyeceğimize baktık ve uy
 🎀PROJE 6: Foreach Döngüsü -->
 Bu projede foreach döngüsünü ele aldık. Uygun karar yapıları ile beraber kullanarak öğrenci sınav sistemi uygulaması yaptık.
 
+🎀PROJE 7: Metotlar -->
+Bu projede metotları öğrendik.
+
