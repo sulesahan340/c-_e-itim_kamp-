@@ -16,3 +16,6 @@ Bu projede döngüleri kullanarak yıldız oluşturma projesi yaptık.
 🎀PROJE 5: Diziler
 Bu projede dizileri öğrendik. Dizileri nasıl listeleyeceğimize baktık ve uygulamalar yaptık.
 
+🎀PROJE 6: Foreach Döngüsü -->
+Bu projede foreach döngüsünü ele aldık. Uygun karar yapıları ile beraber kullanarak öğrenci sınav sistemi uygulaması yaptık.
+
