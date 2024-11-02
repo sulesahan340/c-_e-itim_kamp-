@@ -13,6 +13,6 @@ Bu projede for ve while gibi döngüleri öğrendik. Daha sonra karar yapıları
 🎀PROJE 4: Döngü projesi -->
 Bu projede döngüleri kullanarak yıldız oluşturma projesi yaptık.
 
-🎀PROJE 5: Döngüler
-Bu projede for, while ve forEach döngülerini öğrendim.
+🎀PROJE 5: Diziler
+Bu projede dizileri öğrendik. Dizileri nasıl listeleyeceğimize baktık ve uygulamalar yaptık.
 
